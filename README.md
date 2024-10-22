@@ -1,5 +1,5 @@
 # cmse802_project
-Unlocking the Secrets of High-Quality Wine Using Machine Learning
+## Unlocking the Secrets of High-Quality Wine Using Machine Learning ##
 
 For this project, I utilized Kaggle’s Red Wine Quality dataset to develop various classification models aimed at predicting whether a specific red wine is classified as “good quality.” Each wine in the dataset is assigned a quality score ranging from 0 to 10. For this analysis, I transformed the output into a binary classification: wines scoring 7 or above are labeled as “good quality,” while those below 7 are not.
 

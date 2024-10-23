@@ -35,3 +35,34 @@ Steps Involved in the Project:
 8. Preparing Data for Modeling
 9. Applying Different Models
 10. Selecting the Best Model
+
+### Set up the Environment
+
+Install Jupyter Notebook:
+  pip install notebook
+
+Install Required Libraries:
+* pip install numpy pandas matplotlib seaborn scikit-learn
+* pip install -r requirements.txt
+
+Clone or Download the Project Repository:
+  git clone https://github.com/yourusername/yourproject.git
+
+Open Jupyter Notebook
+  To launch Jupyter Notebook, follow these steps:
+* cd path_to_your_project_folder
+* jupyter notebook
+  A web browser window will open, displaying the Jupyter interface. Navigate to your notebook file (e.g., cmse802_project.ipynb) and open it.
+
+Run the Code:
+  You can run individual cells of code by selecting the cell and pressing Shift + Enter.
+  Alternatively, you can run all cells by selecting Cell > Run All from the menu bar.
+
+Understanding the Notebook Structure:
+  The notebook is divided into different sections, typically in this order:
+
+1. Data Loading: This section loads the red wine dataset.
+2. Data Exploration: Visualizations like histograms, box plots, and scatter plots are generated to analyze patterns in the data.
+3. Feature Engineering: Feature extraction and transformations such as encoding of labels.
+4. Model Training: Training of different machine learning models (e.g., Logistic Regression, Decision Trees).
+5. Model Evaluation: Accuracy, confusion matrices, and other metrics to evaluate the models.

@@ -2,7 +2,7 @@
 ## Unlocking the Secrets of High-Quality Wine Using Machine Learning ##
 
 ### Brief Description:
-In this project, I will work with Kaggle’s Red Wine Quality dataset to create several classification models designed to predict if a particular red wine is considered “good” quality. Each wine is given a quality score between 0 and 10. For this analysis, I converted the scores into a binary classification: wines with a score of 7 or higher are categorized as “good quality,” while those with scores below 7 are classified as not good quality.
+In this project, I will work with Kaggle’s Red Wine Quality dataset to create several classification models designed to predict if a particular red wine is considered “good quality”. Each wine is given a quality score between 0 and 10. For this analysis, I converted the scores into a binary classification: wines with a score of 7 or higher are categorized as “Good” while those with scores below 7 are classified as "Bad".
 
 The quality of the wine is assessed based on 11 input variables:
 

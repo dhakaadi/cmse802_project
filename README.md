@@ -52,7 +52,7 @@ Open Jupyter Notebook:
   To launch Jupyter Notebook, follow these steps:
 * cd path_to_your_project_folder
 * jupyter notebook
-  A web browser window will open, displaying the Jupyter interface. Navigate to your notebook file (e.g., cmse802_project.ipynb) and open it.
+* A web browser window will open, displaying the Jupyter interface. Navigate to your notebook file (e.g., cmse802_project.ipynb) and open it.
 
 Run the Code:
   You can run individual cells of code by selecting the cell and pressing Shift + Enter.

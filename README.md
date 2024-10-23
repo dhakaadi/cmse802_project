@@ -39,16 +39,16 @@ Steps Involved in the Project:
 ### Set up the Environment
 
 Install Jupyter Notebook:
-  pip install notebook
+* pip install notebook
 
 Install Required Libraries:
 * pip install numpy pandas matplotlib seaborn scikit-learn
 * pip install -r requirements.txt
 
 Clone or Download the Project Repository:
-  git clone https://github.com/yourusername/yourproject.git
+* git clone https://github.com/yourusername/yourproject.git
 
-Open Jupyter Notebook
+Open Jupyter Notebook:
   To launch Jupyter Notebook, follow these steps:
 * cd path_to_your_project_folder
 * jupyter notebook

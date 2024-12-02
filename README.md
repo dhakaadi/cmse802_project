@@ -46,7 +46,7 @@ Install Required Libraries:
 * pip install -r requirements.txt
 
 Clone or Download the Project Repository:
-* git clone https://github.com/yourusername/yourproject.git
+* git clone [https://github.com/dhakaadi/cmse802_project.git]
 
 Open Jupyter Notebook:
   To launch Jupyter Notebook, follow these steps:

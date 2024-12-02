@@ -58,6 +58,7 @@ Run the Code:
 * Put the Dataset 'winequality-red.csv' in same folder as Notebook file.
 * You can run individual cells of code by selecting the cell and pressing Shift + Enter.
 * Alternatively, you can run all cells by selecting Cell > Run All from the menu bar.
+* All python files are also included in src folder.
 
 Understanding the Notebook Structure:
   The notebook is divided into different sections, typically in this order:
